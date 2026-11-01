@@ -1,3 +1,6 @@
+> [!NOTE]
+> **Project attribution:** The deployment link and project documentation reference the upstream [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) project. Consult its license and history for attribution and redistribution requirements. This repository's README does not imply original authorship of the upstream code.
+
 <h1 align="center">
 ChatGPT-Telegram-Workers
 </h1>
